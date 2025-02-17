@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "—Pngtree—chef hat cartoon white sticker_6065074.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
